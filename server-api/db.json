@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "2425bd37-3c4f-4fa9-bb76-aa6d8dd283c9",
+      "name": "vishal",
+      "email": "yadavvishalkumar40@gmail.com"
+    },
+    {
+      "id": "a1b7798e-e4a4-4990-9bd3-c0171d2109a5",
+      "name": "manju",
+      "email": "yadavvishalkumar40@gmail.com"
+    },
+    {
+      "id": "8ea47d3e-bbf0-4e14-8bc1-6747c8eae1dd",
+      "name": "Vishali",
+      "email": "carnotojeeyada420@gmail.com"
+    },
+    {
+      "id": "4217f9bf-5020-4674-8338-1378b2f8d442",
+      "name": "Manju Ashok Yadav",
+      "email": "manjudevi123@gmail.com"
+    }
+  ]
+}
